@@ -7,7 +7,7 @@
     My name is <em>Wani</em>. I am a Software Engineering student.
   <br/> Python enthusiast and React lover. 
   <br/>
-continuously learning, wanting to help the community
+Continuously learning full stack development.
   </samp>
   <br/>
   <br/>
