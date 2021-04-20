@@ -4,7 +4,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Wani</em>. I am a Software Engineering student.
+    My name is <em>SyazWani</em>. I am a Software Engineering student.
   <br/> Python enthusiast and React lover. 
   <br/>
 Continuously learning full stack development.
