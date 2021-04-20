@@ -28,4 +28,4 @@ Continuously learning full stack development.
              
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?syazwanirahimin=laxmena&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinwin&layout=compact)](https://github.com/syazwanirahimin/github-readme-stats
