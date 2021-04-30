@@ -30,6 +30,6 @@ Continuously learning full stack development.
 
 <div align="center"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syazwanirahimin&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syazwanirahimin&layout=compact)
 
 </div>
