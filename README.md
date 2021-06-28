@@ -4,7 +4,8 @@
 
 <p align="center" >
   <samp>
-   
+    My name is <em>Syazwani</em>. 
+
   <br/> Python enthusiast and React lover. 
   <br/>
 Continuously learning full stack development.
