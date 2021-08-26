@@ -4,7 +4,7 @@
 
 <p align="center" >
   <samp>
-   Python enthusiast and React lover.  
+  I'm software engineering student 
   <br/> 
   <br/>
 Continuously learning full stack development.
