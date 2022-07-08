@@ -4,7 +4,7 @@
 
 <p align="center" >
   <samp>
-  I'm software engineering student 
+  I'm software developer intern 
   <br/> 
   <br/>
 Continuously learning full stack development.
