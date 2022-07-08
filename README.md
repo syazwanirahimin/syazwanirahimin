@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style = font-size: "50px" align="center">  Hello World! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/woman-technologist.gif" width="38" /></h1>
+  <h1 style = font-size: "50px" align="center">  Hello World! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/woman-technologist.gif" width="50" height="50" /></h1>
 </div>
 
 <p align="center" >
