@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hello World!</h1>
-  <img src"https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/victory-hand.gif height="30" width="30" align="center" />
+  <img src"https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/woman-technologist.gif height="30" width="30" align="center" />
 </div>
 
 <p align="center" >
