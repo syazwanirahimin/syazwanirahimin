@@ -14,17 +14,6 @@ Continuously learning full stack development.
   <br/>
 </p>
 
-<h3>Tools and Frameworks</h3>
-<p align="center">
-         <img src="https://raw.githubusercontent.com/syazwanirahimin/syazwanirahimin/master/resources/dev/java.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-               <img src="https://raw.githubusercontent.com/syazwanirahimin/syazwanirahimin/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-                  <img src="https://raw.githubusercontent.com/syazwanirahimin/syazwanirahimin/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-      <img src="https://raw.githubusercontent.com/syazwanirahimin/syazwanirahimin/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-        <img src="https://raw.githubusercontent.com/syazwanirahimin/syazwanirahimin/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-             <img src="https://raw.githubusercontent.com/syazwanirahimin/syazwanirahimin/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
- 
-             
-</p>
 
 <div align="center"              
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syazwanirahimin&hide=css,scss,html&langs_count=6&layout=compact&theme=buefy&hide_border=true" /></a> 
