@@ -28,6 +28,6 @@ Continuously learning full stack development.
 
 <div align="center"
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syazwanirahimin&layout=compact&hide=css,html)
-     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syazwanirahimin&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
