@@ -26,10 +26,7 @@ Continuously learning full stack development.
              
 </p>
 
-<div align="center"
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syazwanirahimin&layout=compact)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syazwanirahimin)](https://github.com/anuraghazra/github-readme-stats)
-              
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syazwanirahimin&layout=compact&theme=buefy&hide_border=true" /></a> 
+<div align="center"              
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syazwanirahimin&hide=css,html&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 </div>
