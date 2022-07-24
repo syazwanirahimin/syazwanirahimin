@@ -3,7 +3,7 @@
 </div>
 <p align="center" >
   <samp>
-  I'm software developer intern 
+  I'm application engineer intern 
   <br/> 
   <br/>
 Continuously learning full stack development.
